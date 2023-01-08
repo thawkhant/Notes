@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "36bdd95338975693",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae694880d57a26ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2291fb75eb72ae63",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d872a1747d3a753",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5c943a5f048249a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d26b309b124e42f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59e5ebd8630f91ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd38b3f89cc5e636",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5ad160b9c5dc745",
+    "type": "split",
+    "children": [
+      {
+        "id": "f44600b6bbc11b7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8169446731f01c35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a04d812a1793cfa0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35ea417626fbf0d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29582bea8a4b117c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0d26b309b124e42f",
+  "lastOpenFiles": [
+    "Command Injection/Blind Command Injection.md",
+    "File Inclusion/File Inclusion Commands.md",
+    "images.png",
+    "Pasted image 20230106165027.png",
+    "SMB/smb enumation.md",
+    "msfconsole/msfconsole command collection.md",
+    "Metepreter Shell/meterpreter shell comands.md",
+    "nc/nc command collection.md",
+    "PostgresSQL/PostgresSQL command.md",
+    "nmap/Nmap command Collections.md"
+  ]
+}
