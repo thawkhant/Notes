@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae694880d57a26ac",
+        "id": "397cae9c98003a57",
         "type": "tabs",
         "children": [
           {
-            "id": "2291fb75eb72ae63",
+            "id": "7b4282aedd4de926",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d26b309b124e42f",
+  "active": "7b4282aedd4de926",
   "lastOpenFiles": [
+    "XSS/Reflected XSS.md",
     "Command Injection/Blind Command Injection.md",
     "File Inclusion/File Inclusion Commands.md",
     "images.png",
@@ -148,7 +149,6 @@
     "msfconsole/msfconsole command collection.md",
     "Metepreter Shell/meterpreter shell comands.md",
     "nc/nc command collection.md",
-    "PostgresSQL/PostgresSQL command.md",
-    "nmap/Nmap command Collections.md"
+    "PostgresSQL/PostgresSQL command.md"
   ]
 }
