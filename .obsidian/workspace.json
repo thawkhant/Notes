@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "397cae9c98003a57",
+        "id": "37019999a8eff1ce",
         "type": "tabs",
         "children": [
           {
-            "id": "7b4282aedd4de926",
+            "id": "bc51d309410a9cee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Symfonos2/Summary.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Symfonos2/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Symfonos2/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Symfonos2/Summary.md"
+              }
             }
           }
         ]
@@ -138,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b4282aedd4de926",
+  "active": "bc51d309410a9cee",
   "lastOpenFiles": [
-    "XSS/Reflected XSS.md",
-    "Command Injection/Blind Command Injection.md",
-    "File Inclusion/File Inclusion Commands.md",
-    "images.png",
-    "Pasted image 20230106165027.png",
-    "SMB/smb enumation.md",
+    "Symfonos2/writeup.md",
+    "Symfonos2/Summary.md",
+    "Metasploitable2/writeup.md",
+    "Metasploitable2/summary.md",
     "msfconsole/msfconsole command collection.md",
     "Metepreter Shell/meterpreter shell comands.md",
-    "nc/nc command collection.md",
-    "PostgresSQL/PostgresSQL command.md"
+    "System Failture/summary.md",
+    "System Failture/writeup.md",
+    "XSS/Reflected XSS.md",
+    "XSS/port swigger xss.md"
   ]
 }
