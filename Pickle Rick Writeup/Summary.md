@@ -3,6 +3,9 @@ gobuster dir -u http://workers.htb -w /usr/share/dirbuster/wordlists/directory-l
 
 I see the place for command injection
 
+username => R1ckRul3s   / i got from source code
+password  => Wubbalubbadubdub / i got feom robots.txt
+
 grep -R .   => i inject like this
 
 

@@ -7,7 +7,7 @@
 *** `javascript:alert(1)`         =>  my input value is at href tag  " "
 
 ![[Pasted image 20230109133126.png]]
-
+	
 
 -------------
 
@@ -22,3 +22,6 @@ Banned <> character
 
 --------------------------
 
+Case => everything we put is cover with ''   and close with ''  / so we command like this
+
+![[Pasted image 20230112135125.png]]

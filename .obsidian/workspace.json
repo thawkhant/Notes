@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "57f4630863183ab9",
+        "id": "f7bbd0fe04b8f036",
         "type": "tabs",
         "children": [
           {
-            "id": "473dc28c2e1b675e",
+            "id": "eaf3f9c07550b968",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "XSS/port swigger xss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6ba7d6a885ca318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "happycorp Writeup/Write up.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symfonos2/writeup.md",
+                "file": "happycorp Writeup/Write up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symfonos2/writeup.md",
+                "file": "happycorp Writeup/Write up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symfonos2/writeup.md"
+                "file": "happycorp Writeup/Write up.md"
               }
             }
           }
@@ -142,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d26b309b124e42f",
+  "active": "e6ba7d6a885ca318",
   "lastOpenFiles": [
-    "Symfonos2/Summary.md",
-    "Symfonos2/writeup.md",
-    "System Failture/writeup.md",
+    "XSS/port swigger xss.md",
+    "XSS/Dom base xss.md",
+    "google hacking/Notes.md",
+    "XSS/Reflected XSS.md",
+    "xss lab Writeup/Writeup.md",
     "Pickle Rick Writeup/Summary.md",
-    "System Failture/summary.md",
-    "msfconsole/msfconsole command collection.md",
-    "Metasploitable2/writeup.md",
-    "Metasploitable2/summary.md",
-    "Metepreter Shell/meterpreter shell comands.md",
-    "XSS/Reflected XSS.md"
+    "Symfonos2 Writeup/Summary.md",
+    "Symfonos2 Writeup/writeup.md",
+    "System Failture Writeup/writeup.md",
+    "System Failture Writeup/summary.md"
   ]
 }
