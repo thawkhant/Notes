@@ -63,3 +63,19 @@ I got it Lol!
 username => aeolus
 password => sergioteamo
 
+
+---
+
+Rooting Rootin Rooting
+
+find / -user root -perm -4000 -exec ls -ldb {} \; 2>/dev/null    -> for suid  -> but see nothing 
+
+uname -a 
+
+cat /etc/*release  
+
+gcc  -> for c
+
+
+find / -user cronus -perm -4000 -exec ls -ldb {} \; 2>/dev/null   -> cuz we see cronus user in home 
+

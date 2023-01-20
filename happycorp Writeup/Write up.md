@@ -70,6 +70,10 @@ cd /var/www/html
 
 cat admin.php   => we saw admin.php
 
+------------------------------------------
+
+
+
 
 
 
