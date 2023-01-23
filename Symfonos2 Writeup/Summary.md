@@ -22,3 +22,20 @@ smb => annonymous user
 Hashcat
 
 ![[Pasted image 20230110224445.png]]
+
+
+
+----
+
+
+3 types of port forwarding 
+
+-> local
+-> dynamic
+-> remote
+
+
+---
+netstat -antp   ======> bal port twe run nay lal kyi dar  ****
+
+

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63105127bde708fd",
+        "id": "da40676a122c7939",
         "type": "tabs",
         "children": [
           {
-            "id": "284fca5a7bfa3c7a",
+            "id": "88d3353c60278c5a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "284fca5a7bfa3c7a",
+  "active": "88d3353c60278c5a",
   "lastOpenFiles": [
-    "Crossroad Writeup/Write Up.md",
+    "Symfonos2 Writeup/Summary.md",
     "Symfonos2 Writeup/writeup.md",
+    "Pasted image 20230110224445.png",
+    "sql injection/Union Base.md",
+    "Crossroad Writeup/Write Up.md",
     "Crossroad Writeup/Summary.md",
     "happycorp Writeup/Summary.md",
     "happycorp Writeup/Write up.md",
     "Hackdudo Writeup/Write Up.md",
-    "google hacking/Notes.md",
-    "Pickle Rick Writeup/Summary.md",
-    "XSS/port swigger xss.md",
-    "XSS/Reflected XSS.md"
+    "google hacking/Notes.md"
   ]
 }

